@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    font-family: 'Bona Nova', serif;
+}
+.top-block{
+    background-color: #579BB1;
+    height: 600px;    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.develop-image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 400px;
+}
+
+.text ,.text1{
+   text-align: center;
+}
+.image-logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+}
+.middle-block{
+    background-color: #E1D7C6;
+    color: black;
+    text-align: center;
+}
+.bottom-block{
+    background-color: #ECE8DD;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.H1{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.paragraph{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.websites{
+    height: 400px;
+}
+.app{
+    height: 400px;
+}
+.social{
+    height: 25px;
+}
+a{
+    text-decoration: none;
+}
+.name{
+    margin-bottom: 0;
+}
+#contact{
+    margin-bottom: 0;
+}
+.footer-link{
+    padding: 5px;
+}
