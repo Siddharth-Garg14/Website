@@ -4,11 +4,11 @@ body{
 }
 .top-block{
     background-color: #579BB1;
-    height: 600px;    
+       
 }
 h1{
     font-family: 'Sacramento', cursive;
-    font-size: 50px;
+    font-size: 5.625rem;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
@@ -38,6 +38,7 @@ h3{
 }
 .bottom-block{
     background-color: #ECE8DD;
+    text-align: center;
 }
 body{
     margin-top: 0px;
@@ -66,10 +67,15 @@ a{
 }
 .name{
     margin-bottom: 0;
+    text-align: left;
 }
 #contact{
     margin-bottom: 0;
 }
 .footer-link{
     padding: 5px;
+   
+}
+.text1{
+    font-size: 2.1875rem;
 }
