@@ -3,7 +3,7 @@ body{
     font-family: 'Bona Nova', serif;
 }
 .top-block{
-    background-color: #579BB1;
+    background-color: #2C3333;
     color: #CBE4DE;
        
 }
@@ -39,13 +39,13 @@ h3{
     margin-left: 20px;
 }
 .middle-block{
-    background-color: #E1D7C6;
-    color: #FFFBF5;
+    background-color: #CBE4DE;
+    color: black;
     text-align: center;
 
 }
 .bottom-block{
-    background-color: #ECE8DD;
+    background-color: #0E8388;
     text-align: center;
 }
 body{
