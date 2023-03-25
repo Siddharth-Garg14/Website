@@ -4,11 +4,13 @@ body{
 }
 .top-block{
     background-color: #579BB1;
+    color: #CBE4DE;
        
 }
 h1{
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
+    line-height: 2;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
@@ -22,6 +24,11 @@ h3{
     display: block;
     height: 400px;
 }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    
+}
 
 .text ,.text1{
    text-align: center;
@@ -33,8 +40,9 @@ h3{
 }
 .middle-block{
     background-color: #E1D7C6;
-    color: black;
+    color: #FFFBF5;
     text-align: center;
+
 }
 .bottom-block{
     background-color: #ECE8DD;
@@ -67,15 +75,32 @@ a{
 }
 .name{
     margin-bottom: 0;
-    text-align: left;
+    text-align: center;
 }
 #contact{
     margin-bottom: 0;
 }
 .footer-link{
-    padding: 5px;
-   
+    padding: 15px;
 }
 .text1{
     font-size: 2.1875rem;
 }
+hr{
+    border-top: 4px dotted;
+    width: 20%;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+.contact-me{
+    margin-top: 83px;
+}
+.icons{
+    padding-top: 20px;
+}
+
+
+
+
+
